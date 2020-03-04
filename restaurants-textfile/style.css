@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+}
+
+#restaurant-search input {
+    float: left;
+    clear: both;
+}
+
+#restaurants-div {
+    width: 20vw;
+    padding-top: 10vh;
+    margin-left: 40vw;
+    margin-right: 40vw;
+}
+
+#restaurants-list {
+    list-style: none;
+}
+
+#restaurants-list li {
+    border-color: lightslategrey;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20%;
+    text-align: center;
+}
+#restaurants-list h3 {
+    
+}
+
+#restaurants-list p {
+    text-align: center;
+}
